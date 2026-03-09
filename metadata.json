@@ -1,0 +1,5 @@
+{
+  "name": "Neon Arcade",
+  "description": "A combined Music Player and Snake Game with a dark neon aesthetic.",
+  "requestFramePermissions": []
+}
